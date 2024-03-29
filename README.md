@@ -1,10 +1,3 @@
----
-title: What I Learned During 100DaysOfCode
-slug: what-i-learned-during-100-days-of-code
-tags: [Git, Scripts, Terminal, Commands, GitHub]
-authors: [spencerlepine]
----
-
 # #100DaysOfCode Challenge Journal
 
 ![Blog Post Thumbnail](./thumbnail.png)
